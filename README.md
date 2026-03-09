@@ -12,13 +12,25 @@ https://boran77.github.io/Dietititan_Website/
 
 ## Features
 
-* Responsive landing page
-* About section introducing the dietitian
-* Services section (personalized nutrition, sports nutrition, functional nutrition)
-* Consultation packages with pricing
-* Client testimonials
-* Interactive calorie needs calculator
-* Contact form for potential clients
+- Responsive landing page
+- About section introducing the dietitian
+- Services section (personalized nutrition, sports nutrition, functional nutrition)
+- Consultation packages with pricing
+- Client testimonials
+- Interactive calorie needs calculator
+- Contact form for potential clients
+- **Working email system** that sends client inquiries directly to the dietitian's email
+
+## Contact Form & Email Integration
+
+The website includes a functional contact form that allows visitors to send consultation requests directly from the website.
+
+When a user submits the form:
+1. The message is processed by the form system
+2. The inquiry is automatically sent to the dietitian's email
+3. The dietitian can respond directly to the client
+
+This enables potential clients to easily reach out for consultations without leaving the website.
 
 ---
 
